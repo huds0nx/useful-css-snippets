@@ -8,9 +8,17 @@ I suggest using [Stylus](https://chrome.google.com/webstore/detail/stylus/clngdb
 ### universal snippets [work on all sites] ###
 
 #### dark scrollbar ####
+![preview](https://raw.githubusercontent.com/klipisbad/useful-css-snippets/main/images/scrollbar.jpg)
 
+[install](https://raw.githubusercontent.com/klipisbad/useful-css-snippets/main/universal-snippets/universal-dark-scrollbar.user.css)
 
 
 #### remove button focus ####
+removes the annoying outline on most buttons in chrome
 
+without css
+![preview](https://raw.githubusercontent.com/klipisbad/useful-css-snippets/main/images/button_1.jpg)
+with css
+![preview](https://raw.githubusercontent.com/klipisbad/useful-css-snippets/main/images/button_2.jpg)
 
+[install](https://raw.githubusercontent.com/klipisbad/useful-css-snippets/main/universal-snippets/remove-button-focus.user.css)
