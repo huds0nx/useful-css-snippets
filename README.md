@@ -5,4 +5,12 @@ I suggest using [Stylus](https://chrome.google.com/webstore/detail/stylus/clngdb
 
 ## snippets ##
 
-### universal snippets ###
+### universal snippets [work on all sites] ###
+
+#### dark scrollbar ####
+
+
+
+#### remove button focus ####
+
+
