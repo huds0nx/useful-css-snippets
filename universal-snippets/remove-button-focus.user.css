@@ -1,0 +1,30 @@
+button:focus { outline: none !important; }
+
+button:active { outline: none !important; }
+
+button:focus {outline:0 !important;}
+
+button {
+  outline: none !important; 
+}
+
+input[type="button"]{
+   outline:none !important;
+}
+input[type="button"]::-moz-focus-inner {
+   border: 0 !important;
+}
+
+*:focus {
+    outline: 0 !important;
+}
+
+button:focus {
+    border: none !important;
+    outline: none !important;
+}
+
+input[type="button"] {
+    outline: none !important;
+    box-shadow: none !important;
+}
