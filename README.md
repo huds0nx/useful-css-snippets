@@ -3,17 +3,13 @@ my collection of useful css snippets!
 
 I suggest using [Stylus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne "Stylus Extension") to apply these snippets.
 
-## snippets ##
-
-### universal snippets [work on all sites] ###
-
-#### dark scrollbar ####
+## dark scrollbar ####
 ![preview](https://raw.githubusercontent.com/klipisbad/useful-css-snippets/main/images/scrollbar.jpg)
 
 [install](https://raw.githubusercontent.com/klipisbad/useful-css-snippets/main/universal-snippets/universal-dark-scrollbar.user.css)
 
 
-#### remove button focus ####
+## remove button focus ####
 removes the annoying outline on most buttons in chrome
 
 without css
