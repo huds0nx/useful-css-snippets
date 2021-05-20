@@ -1,3 +1,11 @@
+/* ==UserStyle==
+@name           universal dark scrollbar
+@namespace      https://github.com/ihxzey/useful-css-snippets
+@version        1.0.1
+@description    make the scrollbar on every site dark and clean
+@author         github.com/ihxzey
+==/UserStyle== */
+
 ::-webkit-scrollbar-thumb {
     background-color: #424242 !important;
         border-radius: 30px;
